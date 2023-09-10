@@ -1,0 +1,19 @@
+.Header {
+	height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.Header > h1 {
+    position: relative;
+    margin: auto;
+    color: blueviolet;
+    
+}
+
+.Header > h3 {
+    position: relative;
+    margin: auto;
+}
